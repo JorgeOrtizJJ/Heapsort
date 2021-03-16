@@ -1,0 +1,14 @@
+SIN ORDENAR
+arreglo de elementos originales
+|5||3||7||-1||11|
+HEAPSORT
+|-1||3||5||7||11|SIN ORDENAR
+arreglo de elementos originales
+|4||1||3|
+HEAPSORT
+|1||3||4|
+SIN ORDENAR
+arreglo de elementos originales
+|-3||-55||-1||2||3|
+HEAPSORT
+|-55||-3||-1||2||3|
